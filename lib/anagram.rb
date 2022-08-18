@@ -1,5 +1,6 @@
 # Your code goes here!
 
+
 class Anagram
 
     attr_accessor :name #helps in read and write attr
